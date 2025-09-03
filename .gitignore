@@ -1,0 +1,21 @@
+# Large video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Large archives
+*.zip
+*.rar
+*.7z
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Office documents (privacy/contract files)
+*.docx
+*.doc
+
+# Large data files
+data/
