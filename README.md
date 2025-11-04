@@ -1,8 +1,14 @@
-# Aged Lead Store Content Strategy
+# Aged Lead Store
 
-This repository contains comprehensive content strategy documentation and topic ideas for AgedLeadStore.com.
+This repository contains comprehensive content strategy documentation and privacy analytics dashboard for AgedLeadStore.com.
 
 ## Contents
+
+### Privacy Dashboard (`/dashboard`) 🚀 **NEW**
+- **Live Dashboard**: [https://dashboard-56ukpvndn-bill-5597s-projects.vercel.app](https://dashboard-56ukpvndn-bill-5597s-projects.vercel.app)
+- **Analytics for 5 Privacy Forms** - Comprehensive metrics and visualizations
+- **Real-time Data Processing** - Interactive charts and top 10 lists
+- **Responsive Design** - Works on all devices
 
 ### Documentation (`/docs`)
 - **Content Strategy Recommendations** - Comprehensive strategy for growing high-intent lead buyer traffic
@@ -13,6 +19,9 @@ This repository contains comprehensive content strategy documentation and topic 
 ### Content (`/content`)
 - **50 New Topic Ideas** - High-intent buyer focused topics across priority verticals
 - **Topic Ideas CSV** - Spreadsheet-ready format for content planning
+
+### Data (`/data`)
+- **Privacy Form Submissions** - CSV files with form submission data for analytics
 
 ## Priority Focus Areas
 
