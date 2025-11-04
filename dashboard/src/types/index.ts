@@ -19,6 +19,14 @@ export interface DashboardMetrics {
   totalSubmissions: number;
 }
 
+export interface IPBlockingData {
+  ip: string;
+  count: number;
+  sources: string[];
+  firstSeen: string;
+  lastSeen: string;
+}
+
 export interface CSVFile {
   name: string;
   filename: string;

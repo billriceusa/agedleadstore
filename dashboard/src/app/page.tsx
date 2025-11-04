@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { CSV_FILES } from '@/types';
-import { BarChart3, FileText, Users, TrendingUp } from 'lucide-react';
+import { BarChart3, FileText, Users, TrendingUp, Shield } from 'lucide-react';
 
 export default function Home() {
   return (
@@ -39,6 +39,29 @@ export default function Home() {
             <h3 className="text-2xl font-bold text-gray-900">6</h3>
             <p className="text-gray-600">Key Metrics</p>
           </div>
+        </div>
+
+        {/* IP Blocking Feature Highlight */}
+        <div className="mb-12">
+          <Link
+            href="/ip-blocking"
+            className="block bg-gradient-to-r from-red-500 to-red-600 rounded-lg shadow-lg p-6 hover:shadow-xl transition-shadow duration-200 group"
+          >
+            <div className="flex items-center justify-between text-white">
+              <div className="flex items-center">
+                <Shield className="h-8 w-8 mr-4" />
+                <div>
+                  <h3 className="text-xl font-bold">🚨 NEW: IP Blocking Dashboard</h3>
+                  <p className="text-red-100 mt-1">
+                    Identify and block suspicious IP addresses across all privacy forms
+                  </p>
+                </div>
+              </div>
+              <svg className="h-6 w-6 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
+              </svg>
+            </div>
+          </Link>
         </div>
 
         {/* Dashboard Links */}
