@@ -5,8 +5,9 @@ This repository contains comprehensive content strategy documentation and privac
 ## Contents
 
 ### Privacy Dashboard (`/dashboard`) 🚀 **NEW**
-- **Live Dashboard**: [https://dashboard-56ukpvndn-bill-5597s-projects.vercel.app](https://dashboard-56ukpvndn-bill-5597s-projects.vercel.app)
+- **Live Dashboard**: [https://agedleadstore-privacy-dashboard-gdgq5hcs3-bill-5597s-projects.vercel.app](https://agedleadstore-privacy-dashboard-gdgq5hcs3-bill-5597s-projects.vercel.app)
 - **Analytics for 5 Privacy Forms** - Comprehensive metrics and visualizations
+- **🚨 IP Blocking Dashboard** - Aggregate suspicious IPs with CSV download
 - **Real-time Data Processing** - Interactive charts and top 10 lists
 - **Responsive Design** - Works on all devices
 
